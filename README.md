@@ -1,1 +1,0 @@
-# temoeri.github.io
