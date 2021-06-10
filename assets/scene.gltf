@@ -90,16 +90,16 @@
 	],
 	"images": [
 		{
-			"uri": "Assets/Apartment 01/Living Room/Assets/Textures/Couch_04/couch_Couch_AlbedoTransparency.jpg"
+			"uri": "./Assets/Apartment_01/Living Room/Assets/Textures/Couch_04/couch_Couch_AlbedoTransparency.jpg"
 		},
 		{
-			"uri": "Assets/Apartment 01/Living Room/Assets/Textures/Couch_04/couch_Couch_MetallicSmoothness_converted_metalRoughness.jpg"
+			"uri": "./Assets/Apartment_01/Living Room/Assets/Textures/Couch_04/couch_Couch_MetallicSmoothness_converted_metalRoughness.jpg"
 		},
 		{
-			"uri": "Assets/Apartment 01/Living Room/Assets/Textures/Couch_04/couch_Couch_Normal.jpg"
+			"uri": "./Assets/Apartment_01/Living Room/Assets/Textures/Couch_04/couch_Couch_Normal.jpg"
 		},
 		{
-			"uri": "Assets/Apartment 01/Living Room/Assets/Textures/Couch_04/couch_Couch_AmbientOcclusion.jpg"
+			"uri": "./Assets/Apartment_01/Living Room/Assets/Textures/Couch_04/couch_Couch_AmbientOcclusion.jpg"
 		}
 	],
 	"materials": [
